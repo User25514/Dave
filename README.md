@@ -1,4 +1,4 @@
-# Dave
+# PrinterBot
  Discord JS bot
 # Commands:
 ## Ticket Command:
